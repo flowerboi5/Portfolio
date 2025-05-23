@@ -1,6 +1,7 @@
 
-## About me
-🪻 Cyber security graduate passionate about ethical hacking and
+## Hello! My name is Shivani
+🪻 Cyber security graduate
+🌷 Passionate about network security, ethical hacking, and penetration testing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivani Kairamkonda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanikairamkonda42@gmail.com) 
